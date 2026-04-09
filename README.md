@@ -5,6 +5,7 @@
 
 ✨**We hope she can inspire more friends to delve into this fascinating field.**
 
+<img width="1560" height="795" alt="image" src="https://github.com/user-attachments/assets/e4a6384e-1f04-43ff-958e-6a0c0c13cee4" />
 
 
 
