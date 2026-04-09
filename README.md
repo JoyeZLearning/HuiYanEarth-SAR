@@ -82,7 +82,7 @@ extra_gated_prompt: |-
 
 ## 🎈**Acknowledgements**
 
-Thanks to all collaborators and the lovely participants who joined in the experiments, as well as the selfless open-source contributors. My gratitude also goes to you who are reading this paper right now. It is because of you that this work and SAR image interpretation have been made better. 
+ ### **Thanks to all collaborators and the lovely participants who joined in the experiments, as well as the selfless open-source contributors. My gratitude also goes to you who are reading this paper right now. It is because of you that this work and SAR image interpretation have been made better. **
 
 
 Please light up the STAR⭐⭐⭐⭐⭐  to encourage more opensource on SAR image interpretations!🥰🥳🥂
