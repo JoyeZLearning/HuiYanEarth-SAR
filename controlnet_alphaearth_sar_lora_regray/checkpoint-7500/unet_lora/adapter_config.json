@@ -1,0 +1,34 @@
+{
+  "alpha_pattern": {},
+  "auto_mapping": {
+    "base_model_class": "UNet2DConditionModel",
+    "parent_library": "diffusers.models.unets.unet_2d_condition"
+  },
+  "base_model_name_or_path": null,
+  "bias": "none",
+  "fan_in_fan_out": false,
+  "inference_mode": true,
+  "init_lora_weights": true,
+  "layers_pattern": null,
+  "layers_to_transform": null,
+  "loftq_config": {},
+  "lora_alpha": 16,
+  "lora_dropout": 0.05,
+  "megatron_config": null,
+  "megatron_core": "megatron.core",
+  "modules_to_save": null,
+  "peft_type": "LORA",
+  "r": 32,
+  "rank_pattern": {},
+  "revision": null,
+  "target_modules": [
+    "to_q",
+    "to_v",
+    "to_out.0",
+    "conv1",
+    "conv2",
+    "to_k"
+  ],
+  "task_type": null,
+  "use_rslora": false
+}
