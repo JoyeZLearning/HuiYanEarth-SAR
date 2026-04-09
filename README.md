@@ -14,7 +14,8 @@
 
 ## Human Visual Evaluation
 To comprehensively evaluate the visual authenticity, geographical plausibility, and physical consistency of the generated images from a human perception perspective, we designed and conducted a hierarchical double-blind visual assessment experiment.
-Welcome to enjoy [it]([https:/steps/huggingface.co/CompVis/stable-diffusion-v1-2](https://www.credamo.com/u/oBgNz4JWXPN/))! 
+
+Welcome to enjoy [it](https://www.credamo.com/u/oBgNz4JWXPN/)! 
 
 
 ## 📽️ Getting Started
