@@ -28,7 +28,7 @@ For more information about how Stable Diffusion functions, please have a look at
 The **Stable-Diffusion-v1-5** checkpoint was initialized with the weights of the [Stable-Diffusion-v1-2](https:/steps/huggingface.co/CompVis/stable-diffusion-v1-2) 
 checkpoint and subsequently fine-tuned on 595k steps at resolution 512x512 on "laion-aesthetics v2 5+" and 10% dropping of the text-conditioning to improve [classifier-free guidance sampling](https://arxiv.org/abs/2207.12598).
 
-You can use this both with the [🧨Diffusers library](https://github.com/huggingface/diffusers) and the [RunwayML GitHub repository](https://github.com/runwayml/stable-diffusion).
+You can use this both with the [🧨Diffusers library](https://github.com/huggingface/diffusers) and the [RunwayML GitHub repository](https://github.com/runwayml/stable-diffusion). Thanks them VERY MUCH!!!
 
 ### Diffusers
 ```py
@@ -77,7 +77,12 @@ extra_gated_prompt: |-
   1. You can't use the model to deliberately produce nor share illegal or harmful outputs or content 
   2. CompVis claims no rights on the outputs you generate, you are free to use them and are accountable for their use which must not go against the provisions set in the license
   3. You may re-distribute the weights and use the model commercially and/or as a service. If you do, please be aware you have to include the same use restrictions as the ones in the license and share a copy of the CreativeML OpenRAIL-M to all your users (please read the license entirely and carefully)
-  Please read the full license carefully here: https://huggingface.co/spaces/CompVis/stable-diffusion-license
+   Please read the full license carefully here: https://huggingface.co/spaces/CompVis/stable-diffusion-license
+
+
+## 🎈**Acknowledgements**
+
+Thanks to all collaborators and the lovely participants who joined in the experiments, as well as the selfless open-source contributors. My gratitude also goes to you who are reading this paper right now. It is because of you that this work and SAR image interpretation have been made better. 
 
 
 Please light up the STAR⭐⭐⭐⭐⭐  to encourage more opensource on SAR image interpretations!🥰🥳🥂
