@@ -53,6 +53,11 @@ For more detailed instructions, use-cases and examples in JAX follow the instruc
    - [v1-5-pruned.ckpt](https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned.ckpt) - 7.7GB, ema+non-ema weights. uses more VRAM - suitable for fine-tuning
 
 ## 🎞️ Visualization
+
+<img width="1593" height="929" alt="image" src="https://github.com/user-attachments/assets/26406223-9345-4d0d-a5ac-ea9552eea21d" />
+
+
+
 <img width="1164" height="813" alt="image" src="https://github.com/user-attachments/assets/c49d47b8-0f39-483c-b388-1af17730bfac" />
 
 
