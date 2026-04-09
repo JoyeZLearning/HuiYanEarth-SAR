@@ -9,11 +9,11 @@
 
 
 
-##🛠️ Updates (YY/MM/DD)
+## 🛠️ Updates (YY/MM/DD)
 - (2026/04) Code is released.
 
 
-##😃 Human Visual Evaluation
+## 😃 Human Visual Evaluation
 To comprehensively evaluate the visual authenticity, geographical plausibility, and physical consistency of the generated images from a human perception perspective, we designed and conducted a hierarchical double-blind visual assessment experiment.
 
 [Welcome to enjoy it](https://www.credamo.com/u/oBgNz4JWXPN/)! 
@@ -52,12 +52,12 @@ For more detailed instructions, use-cases and examples in JAX follow the instruc
    - [v1-5-pruned-emaonly.ckpt](https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt) - 4.27GB, ema-only weight. uses less VRAM - suitable for inference
    - [v1-5-pruned.ckpt](https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned.ckpt) - 7.7GB, ema+non-ema weights. uses more VRAM - suitable for fine-tuning
 
-##🎞️ Visualization
+## 🎞️ Visualization
 <img width="1164" height="813" alt="image" src="https://github.com/user-attachments/assets/c49d47b8-0f39-483c-b388-1af17730bfac" />
 
 
 
-##📖 License
+## 📖 License
 
 license: creativeml-openrail-m
 tags:
