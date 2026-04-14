@@ -20,6 +20,21 @@ To comprehensively evaluate the visual authenticity, geographical plausibility, 
 [Welcome to enjoy it](https://www.credamo.com/u/oBgNz4JWXPN/)! 
 
 
+## :books: Citation 
+
+If you find this work helpful for your research, please kindly consider citing our paper:
+```bib
+@article{liu2026huiyanearthsar,
+      title={HuiYanEarth-SAR: A Foundation Model for High-Fidelity and Low-Cost Global Remote Sensing Imagery Generation},
+      author={Liu, Yongxiang and Zhou, jie and Song, Yafei and Liu Tianpeng and Liu, Li},
+      journal={arXiv preprint arXiv:2604.11444},
+      year={2026},
+      url={https://arxiv.org/abs/2604.11444}, 
+}
+```
+
+
+
 ## 📽️ Getting Started
 ### Stable Diffusion v1-5 Model Card
 
