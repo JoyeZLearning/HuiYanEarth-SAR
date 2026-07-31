@@ -1,8 +1,8 @@
-## HuiYanEarth-SAR: A Foundation Model for High-Fidelity and Low-Cost Global Remote Sensing Imagery Generation
+## HuiYanEarth-SAR
   
 Yongxiang Liu, Jie Zhou, Bowen Peng, Yafei Song, Tianpeng Liu, Li Liu*
 
-👑**HuiYanEarth-SAR is the first foundational SAR imagery generation model based on AlphaEarth and integrated scattering mechanisms.**
+👑**HuiYanEarth-SAR is the first foundation model for high-fidelity and low-cost global SAR imagery generation based on AlphaEarth and integrated scattering mechanisms.**
 
 
 ✨**We hope she can inspire more friends to delve into this fascinating field.**
